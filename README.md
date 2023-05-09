@@ -1,5 +1,5 @@
 # Desafio realizado durante o curso Bootcamp Spring Boot da DevSuperior
-## Projeto para criar um CRUD completo utilizando Java e Spring
+
 ## Sobre o desafio
 
 Você deverá realizar um projeto Spring Boot contendo um CRUD completo
